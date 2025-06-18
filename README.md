@@ -36,7 +36,7 @@ Pick Game is a simple and fun two-player virtual dice game built using **HTML**,
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/c09761de-7ec7-492c-97c8-85b47cd97743)
 
-##🌟 Possible Upgrades
+## 🌟 Possible Upgrades
 - Implement animations and sound effects for a more engaging experience
 - Track score history or previous winners
 - Add customizable winning score
